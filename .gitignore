@@ -1,0 +1,2 @@
+echo "*.love" > .gitignore
+echo ".DS_Store" >> .gitignore
